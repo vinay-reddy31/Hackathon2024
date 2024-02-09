@@ -1,0 +1,512 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+/* Vr Banner section */
+.image-logo {
+    height: 45px;
+    width: 80px;
+}
+
+/* 
+#id-item1 {
+    color: #323f4b;
+}
+
+#id-item2 {
+    color: #323f4b;
+}
+
+#id-item3 {
+    color: #323f4b;
+}
+
+#id-item4 {
+    color: #323f4b;
+} */
+
+.ckd-bg-container {
+    height: 100vh;
+    background-image: url("https://imagetolink.com/ib/jcBw1CuiEa.jpg");
+    background-size: cover;
+    color:black;
+}
+
+.banner-heading {
+    color: white;
+    font-weight: bold;
+}
+
+.banner-para {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.button-outline {
+    border-radius: 5px;
+    background-color: #1a2137;
+    color: white;
+}
+
+/*  VR product section */
+
+.product-section-background {
+    background-image: url("https://play-lh.googleusercontent.com/c34I2VAWv3xNUdIQV8XHzJHra_VBGXlSTuGiYdPQT6jLNXcszMQ6FrS4L_ICahNdhvWu");
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+.product-section-background2 {
+    background-image: url("https://img.freepik.com/free-photo/robot-performing-ordinary-human-job_23-2151008295.jpg?size=626&ext=jpg&ga=GA1.1.71571927.1680874696&semt=ais_ai_generated");
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+.product-section-heading {
+    color: white;
+}
+
+.product-section-button {
+    border-color: white;
+    border: solid;
+    border-radius: 3px;
+    background-color: transparent;
+    color: white;
+    height: 35px;
+    width: 100px;
+}
+
+.product-section-button2 {
+    background-color: #1754a1;
+    color: white;
+    border: solid;
+    border-radius: 3px;
+    height: 35px;
+    width: 100px;
+}
+
+
+/* VR Features Section */
+
+.card-container {
+    background-color: white;
+}
+
+.image {
+    height: 125px;
+    width: 155px;
+}
+
+.card-heading {
+    color: #1f2933;
+}
+
+.card-paragraph {
+    color: #7b8794;
+}
+
+.inline-element {
+    color: #1f2933;
+    font-weight: bold;
+}
+
+/* VR products */
+.section-heading {
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.image {
+    height: 180px;
+    width: 175px;
+}
+
+.vr-products-card-container {
+    background-color: white;
+}
+
+/* VR Controller Section */
+
+.controller-section-image {
+    padding: 5px;
+    height: 250px;
+    width: 250px;
+}
+
+.controller-section-heading {
+    color: #1f2933;
+}
+
+.controller-section-paragraph {
+    color: #7b8794;
+}
+
+.controller-section-button {
+    border-radius: 5px;
+    background-color: #1a2137;
+    font-family: "Roboto";
+    width: 130px;
+    color: white;
+}
+
+/* contact us section  */
+
+.contact-us-background {
+    background-color: #222b36;
+    color: white;
+}
+
+.contact-us-image {
+    height: 250px;
+    width: 290px;
+}
+
+.contact-us-button {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+}
+
+
+/* product-blog-section */
+.card {
+    background-color: white;
+    border-width: 0px;
+    padding: 14px;
+}
+
+.product-blog-image {
+    height: 280px;
+    width: 450px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card-heading {
+    color: #959ead;
+    font-weight: bold;
+    margin: 3px;
+}
+
+.card-paragraph {
+    color: #323f4b;
+    margin: 5px;
+}
+
+.navigate {
+    color: #1754a1;
+    font-weight: bold;
+}
+
+.menu-item-link {
+    color: #1754a1;
+    font-weight: bold;
+    padding-left: 8px;
+}
+
+.button {
+    color: white;
+    height: 35px;
+    width: 80px;
+    border-radius: 3px;
+    background-color: #1754a1;
+    border-width: 0px;
+}
+
+/* Footer contact us section */
+
+.footer-contact-us-background {
+    background-color: black;
+}
+
+.footer-contact-us-vr-image {
+    border-radius: 300px;
+    height: 80px;
+    width: 100px;
+}
+
+.footer-contact-us-icon {
+    color: #959ead;
+    border-radius: 25px;
+    padding: 9px;
+    margin: 5px;
+    background-color: #5a7184;
+}
+
+.footer-contact-us-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    margin: 4px;
+}
+
+.footer-contact-us-mini-heading {
+    color: #5a7184;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.footer-contact-us-mini-icons {
+    color: #5a7184;
+    padding: 4px;
+    margin: 5px;
+}
+
+.footer-contact-us-para-section {
+    color: #5a7184;
+}
+
+.footer-contact-us-hr-line {
+    background-color: #959ead;
+    font-weight: bold;
+}
+
+.footer-contact-us-copyright-para {
+    color: #959ead;
+    margin: 5px;
+}
+
+
+/* Additional */
+
+.product-container {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.product-container img {
+    display: block;
+    width: 300px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    transition: transform 0.3s ease;
+}
+.product-container:hover img {
+    transform: scale(1.1); /* Scale up on hover */
+}
+.product-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Adjust the transparency as needed */
+    opacity: 0; /* Initially hidden */
+    transition: opacity 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.product-container:hover .product-overlay {
+    opacity: 1; /* Show overlay on hover */
+}
+.product-overlay a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+.product-overlay a:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+
+/* .product-overview {
+    background-size: cover;
+}
+
+.product-overview-details {
+    height: 400px;
+    border-radius: 24px;
+}
+
+.product-overview-details2 {
+    height: 400px;
+    width: 480px;
+    border-radius: 24px;
+} */
+
+
+/*  diet to follow section */
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+    height:180px;
+    width:200px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+/* js connection */
+.todos-bg-container {
+    background-color: #f9fbfe;
+    height: 100vh;
+}
+
+.todos-heading {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 46px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.create-task-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.create-task-heading-subpart {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.todo-items-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.todo-items-heading-subpart {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.todo-items-container {
+    margin: 0px;
+    padding: 0px;
+}
+
+.todo-item-container {
+    margin-top: 15px;
+}
+
+.todo-user-input {
+    background-color: white;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e4e7eb;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.button {
+    color: white;
+    background-color: #4c63b6;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-width: 0px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.label-container {
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+}
+
+.checkbox-input {
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
+
+.checkbox-label {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    width: 82%;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+
+.delete-icon-container {
+    text-align: right;
+    width: 18%;
+}
+
+.delete-icon {
+    padding: 15px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
